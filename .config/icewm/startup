@@ -1,0 +1,7 @@
+#!/bin/sh
+
+tint2 &
+plank
+compton &
+nitrogen --restore &
+pcmanfm --desktop 
